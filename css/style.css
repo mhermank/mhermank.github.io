@@ -351,7 +351,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 300px;
-    background: #f2f3f7;
+    background: #100a47;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
@@ -399,6 +399,7 @@ body.offcanvas {
 
 .author-img {
   background-size: cover;
+  color: #0ec0f7;
   background-position: center center;
   background-repeat: no-repeat;
   position: relative; }
@@ -525,7 +526,7 @@ body.offcanvas {
   position: absolute;
   display: block;
   width: 4px;
-  background: #f2f3f7;
+  background: #05103a;
   top: 20px;
   bottom: 20px;
   margin-left: 29px; }
@@ -1121,7 +1122,7 @@ body.offcanvas {
       height: 200px; } }
 
 .colorlib-bg-color {
-  background: #fafafa;
+  background: #19063d;
   position: relative; }
 
 .pagination {
@@ -1294,7 +1295,7 @@ body.offcanvas {
     -webkit-box-shadow: none;
     box-shadow: none;
     border-color: transparent;
-    background: #f0f0f0; }
+    background: #150541; }
 
 #message {
   height: 130px; }
